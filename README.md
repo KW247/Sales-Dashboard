@@ -1,4 +1,3 @@
-<img width="1077" height="720" alt="8f04af859e4e60f2020e386281e9d080" src="https://github.com/user-attachments/assets/a2d246e4-93d8-4091-a029-d8c3a07188d8" />
 # Sales Data Reporting Dashboard
 
 ## Overview
@@ -21,8 +20,7 @@ This project focuses on processing and reporting transactional sales data to sup
 - Product performance
 
 ## Dashboard Preview
-(放一张截图)
+<img width="1077" height="720" alt="8f04af859e4e60f2020e386281e9d080" src="https://github.com/user-attachments/assets/a2d246e4-93d8-4091-a029-d8c3a07188d8" />
 
 ## Files
 - dashboard/: Power BI dashboard (.pbix)
-- data/: sample dataset
